@@ -37,11 +37,11 @@ Scaled using the same transformation as training data
 Model calculates distances
 Returns the 5 most similar movies
 
-#Key Concepts
+# Key Concepts
 - k-Nearest Neighbors (kNN): Finds similar items based on distance
 - Feature Scaling: Ensures fair comparison across variables
 - Euclidean Distance: Measures similarity between movies
 
-#How to Run...
+# How to Run...
 Open the notebook (CA05.ipynb) in Jupyter Notebook or Google Colab --> Run all cells in order --> View the recommended movies output at the end
 
